@@ -1,0 +1,36 @@
+.top
+{
+    text-align: right;
+    padding:10px;
+    background:#4BCFFA;
+    color:#2B2B52;
+}
+
+body
+{
+    background:url("./clg.jpg");
+    background-size: cover;
+   
+}
+.heading
+{
+    color: #EAF0F1;
+}
+.insta
+{
+    
+    transform: translateY(10%);
+    transform: translateX(1800%);
+}
+
+.fb
+{
+    
+    transform: translateY(10%);  
+    transform: translateX(1700%);
+}
+
+.font1
+{
+    font-size: 73px;
+}
